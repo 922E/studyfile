@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhwh.a CMakeFiles/hwh.dir/src/hwh.cpp.o
+/usr/bin/ranlib libhwh.a

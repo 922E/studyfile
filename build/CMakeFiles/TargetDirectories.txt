@@ -1,0 +1,4 @@
+/home/guazai/build/CMakeFiles/hwh.dir
+/home/guazai/build/CMakeFiles/main.dir
+/home/guazai/build/CMakeFiles/edit_cache.dir
+/home/guazai/build/CMakeFiles/rebuild_cache.dir
